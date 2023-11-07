@@ -1,6 +1,10 @@
 # CLAP
 Knowledge Inference Combining Convolutional Feature Extraction and Path Semantics Integration
 
+## Installation
+First clone the repository.
+Then obtain the required libraries with content below by creating environment.yml.
+
 channels:
   - pytorch
   - conda-forge
@@ -129,3 +133,6 @@ dependencies:
     - widgetsnbextension==3.5.1
     - wrapt==1.12.1
     - zipp==3.1.0
+
+## Pre-trained Models
+To be filled.
